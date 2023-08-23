@@ -12,6 +12,11 @@
   * O extrato deve mostrar, além dos depósitos e saques realizados, o saldo atual;
   * Em caso de nenhum depósito ou saque realizado, o extrato deve mostrar "Não foram realizadas movimentações.".
 
+### Recursos Utilizados
+* Estruturas Condicionais
+* Estruturas de Repetição
+* Interpolação de Strings
+
 ### Linguagem
   Python
 
